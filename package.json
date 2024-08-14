@@ -1,0 +1,20 @@
+{
+  "name": "adhan-demo",
+  "version": "1.0.0",
+  "description": "Adhan JS demo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Adhan",
+    "prayer",
+    "time"
+  ],
+  "author": "Anam Hossain",
+  "license": "MIT",
+  "dependencies": {
+    "adhan": "^4.4.3",
+    "moment-timezone": "^0.5.45"
+  }
+}
